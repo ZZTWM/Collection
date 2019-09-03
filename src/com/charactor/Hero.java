@@ -1,6 +1,6 @@
 package com.charactor;
 
-public class Hero {
+public class Hero implements LOL{
 	public String name;
 	public float hp;
 	public int damage;
