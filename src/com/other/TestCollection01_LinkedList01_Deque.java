@@ -10,7 +10,7 @@ import com.charactor.Hero;
  * @author Administrator
  *
  */
-public class TestCollection01_LinkedList01 {
+public class TestCollection01_LinkedList01_Deque {
 	public static void main(String[] args) {
 		//LinkedList是一个双向链表结构的list
 		LinkedList<Hero> ll = new LinkedList<Hero>();
