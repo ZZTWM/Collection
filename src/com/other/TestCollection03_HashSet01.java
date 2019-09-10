@@ -6,7 +6,7 @@ import java.util.HashSet;
  * @author Administrator
  *
  */
-public class TestCollection03_HashSet {
+public class TestCollection03_HashSet01 {
 	public static void main(String[] args) {
 		HashSet<String> names = new HashSet<String>();
 		names.add("gareen");
