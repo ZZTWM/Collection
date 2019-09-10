@@ -3,6 +3,7 @@ package com.other;
 import java.util.HashMap;
 
 /**
+ * HashMap的键值对
  * HashMap储存数据的方式是—— 键值对
  * @author Administrator
  *
