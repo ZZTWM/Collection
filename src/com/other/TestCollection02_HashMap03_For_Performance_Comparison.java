@@ -23,7 +23,7 @@ import com.charactor.Hero;
  * Map的value是List,里面放了名称相同的多个英雄
  * 如图所示，使用Map查找会快非常多，为什么会快很多呢？ 这就涉及到hashcode 原理，将在后续章节专门详细讲解。
  */
-public class TestCollection03_HashMap_For_Performance_Comparison {
+public class TestCollection02_HashMap03_For_Performance_Comparison {
     public static void main(String[] args) {
         List<Hero> hs =new ArrayList<>();
         System.out.println("初始化开始");
