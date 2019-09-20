@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * reverse 使List中的数据发生翻转
+ * @author Administrator
+ *
+ */
 public class TestCollection04_Collectios01_reverse {
 	public static void main(String[] args) {
 		//初始化集合numbers
