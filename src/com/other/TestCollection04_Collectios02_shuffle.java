@@ -3,7 +3,11 @@ package com.other;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+/**
+ * shuffle 混淆List中数据的顺序
+ * @author Administrator
+ *
+ */
 public class TestCollection04_Collectios02_shuffle {
 	public static void main(String[] args) {
 		//初始化集合numbers
