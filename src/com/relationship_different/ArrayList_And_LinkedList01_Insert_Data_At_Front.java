@@ -14,7 +14,7 @@ import java.util.List;
  * @author Administrator
  *
  */
-public class ArrayList_And_LinkedList01_InsertData {
+public class ArrayList_And_LinkedList01_Insert_Data_At_Front {
 	public static void main(String[] args) {
 		List<Integer> l;
 		l = new ArrayList<>();
